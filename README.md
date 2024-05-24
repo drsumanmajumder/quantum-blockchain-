@@ -1,5 +1,5 @@
 # quantum-blockchain-
-Quantum-Blockchain
+Quantum-Blockchain scheme(QUAN_FRAUD) for Fraud Detection
 
 We employed Bionic 18.04.4, Pandas, Python 3.6, Jupyter Notebook, and Hyperledger AnonCreds 1.0 to create and confirm Dynamic Identities (DID), Wallet addresses, and Verifiable Credentials (VC) for marketplace participants. AnonCreds 1.0 operates with the Hyperledger Indy platform to generate an Indy System Pool, assigning verifier roles like Trust Anchor (role '101') or Trustee (role '0') using Nym Transactions in our 'DID_WalletAddress_Generator.py' program.
 
